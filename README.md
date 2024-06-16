@@ -1,6 +1,8 @@
 # Medical_Research_RAG_Assistant
 This project utilizes LLMs (Large Language Model) and RAG (Retrieval-Augmented Generation) to create a helpful medical research assistant that guides students in writing research papers.
 
+The LLM used is llama3 and the RAG chain used is the Langchain QA chain. [^1]
+
 ## Usage
 On first use of the tool, a user will provide a topic sentence to the first RAG chain to help write the outline for the essay.
 On second pass, another RAG chain will use the outline produced from the previous RAG chain to produce a medical essay based on the given topic. To do this, copy and paste outline from first chain and put it into query of second chain.
@@ -30,5 +32,7 @@ The LLM  used is llama3 with the correct huggingface directory
 
 For quick feedback and prototyping, we've saved the execution in jupyter notebooks.
 
+## References
 
+[^1]:[https://api.python.langchain.com/en/latest/chains/langchain.chains.retrieval_qa.base.RetrievalQA.html#langchain.chains.retrieval_qa.base.RetrievalQA(https://api.python.langchain.com/en/latest/chains/langchain.chains.retrieval_qa.base.RetrievalQA.html#langchain.chains.retrieval_qa.base.RetrievalQA)
 
