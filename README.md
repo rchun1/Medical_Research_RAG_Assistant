@@ -32,24 +32,3 @@ For quick feedback and prototyping, we've saved the execution in jupyter noteboo
 
 
 
-## References
-
-[^1]: [https://docs.llamaindex.ai/en/stable/understanding/indexing/indexing/](https://docs.llamaindex.ai/en/stable/understanding/indexing/indexing/)
-
-[^2]: [https://docs.llamaindex.ai/en/stable/examples/vector_stores/ChromaIndexDemo/](https://docs.llamaindex.ai/en/stable/examples/vector_stores/ChromaIndexDemo/)
-
-[^3]: [https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant](https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant)
-
-[^4]: [https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/rag_cli/](https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/rag_cli/)
-
-[^5]: [https://medium.com/the-ai-forum/create-a-blog-writer-multi-agent-system-using-crewai-and-ollama-f47654a5e1cd](https://medium.com/the-ai-forum/create-a-blog-writer-multi-agent-system-using-crewai-and-ollama-f47654a5e1cd)
-
-[^6]: [https://docs.llamaindex.ai/en/latest/examples/chat_engine/chat_engine_context/](https://docs.llamaindex.ai/en/latest/examples/chat_engine/chat_engine_context/)
-
-[^7]: [https://llamahub.ai/l/readers/llama-index-readers-json](https://llamahub.ai/l/readers/llama-index-readers-json)
-
-[^8]: [https://docs.llamaindex.ai/en/stable/examples/query_engine/json_query_engine/](https://docs.llamaindex.ai/en/stable/examples/query_engine/json_query_engine/)
-
-[^9]: [https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/usage_pattern/#query-engine-tools](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/usage_pattern/#query-engine-tools)
-
-[^10]: [https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/json/](https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/json/)
