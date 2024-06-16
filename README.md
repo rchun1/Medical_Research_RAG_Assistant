@@ -51,3 +51,5 @@ For quick feedback and prototyping, we've saved the execution in jupyter noteboo
 [^8]: [https://docs.llamaindex.ai/en/stable/examples/query_engine/json_query_engine/](https://docs.llamaindex.ai/en/stable/examples/query_engine/json_query_engine/)
 
 [^9]: [https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/usage_pattern/#query-engine-tools](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/usage_pattern/#query-engine-tools)
+
+[^10]: [https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/json/](https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/json/)
